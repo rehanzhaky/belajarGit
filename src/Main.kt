@@ -14,3 +14,5 @@ fun tadarus() {
     var mengaji = "surah"
     print(mengaji)
 }
+
+var git = "belajar git"
